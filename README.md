@@ -1,9 +1,10 @@
+
 <div align="center">
 
 # Hola, soy Diego Hidalgo 👋
 
 <a href="https://github.com/Suxx12">
-  <img width="180" src="./gato_n64_transparente.gif" alt="Gato blanco 3D" />
+ <img width="450" height="450" alt="gato_n64_transparente" src="https://github.com/user-attachments/assets/a295239a-0a7b-4b7f-a49a-0485d7ee3619" />
 </a>
 
 <br>
