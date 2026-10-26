@@ -2,8 +2,14 @@
 
 # Hola, soy Diego Hidalgo 👋
 
+<a href="https://github.com/Suxx12">
+  <img width="180" src="./gato_n64_transparente.gif" alt="Gato blanco 3D" />
+</a>
+
+<br>
+
 **Ingeniería Civil en Informática y Telecomunicaciones — Universidad Diego Portales**  
-*Desarrollo web, Seguridad y análisis de datos aplicados a problemas reales.*  
+*Desarrollo web y análisis de datos aplicados a problemas reales.*  
 📍 Santiago, Chile
 
 <br>
