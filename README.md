@@ -10,7 +10,7 @@
 <br>
 
 **Ingeniería Civil en Informática y Telecomunicaciones — Universidad Diego Portales**  
-*Desarrollo web y análisis de datos aplicados a problemas reales.*  
+*Desarrollo web, seguridad y análisis de datos aplicados a problemas reales.*  
 📍 Santiago, Chile
 
 <br>
